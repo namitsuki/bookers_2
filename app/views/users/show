@@ -1,0 +1,1 @@
+<%= render 'books/list', book: @book, user: @user, books: @books, user_title: "User info", list_title: "Books" %>
